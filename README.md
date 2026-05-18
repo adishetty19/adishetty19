@@ -2,6 +2,7 @@
 
 Front-End Developer with 4+ years of experience building scalable enterprise web applications. At TCS, I worked with clients across industries, delivering production grade UIs using React, Angular, JavaScript, and TypeScript, integrated with Azure and CI/CD pipelines.
 I also have experience in automation and scripting, and a growing interest in data analytics and visualization.
+
 Currently open to new Front-End or Full-Stack opportunities.
   
 - 📫 Reach me at [shettyaditya19@gmail.com](mailto:shettyaditya19@gmail.com)
