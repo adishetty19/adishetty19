@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Aditya Shetty 👋</h1>
 
-I am a Front End Developer at Tata Consultancy Services having a versatile work experience of 3+ years building enterprise applications with expertise in Front End, automation, and scripting technologies. I am 
-proficient in Angular, Java, Python, C, JavaScript, and TypeScript along with good problem-solving and interpersonal skills. I also have a keen interest in data analytics and visualization.
+Front-End Developer with 4+ years of experience building scalable enterprise web applications. At TCS, I worked with clients across industries, delivering production grade UIs using React, Angular, JavaScript, and TypeScript, integrated with Azure and CI/CD pipelines.
+
+I also have experience in automation and scripting, and a growing interest in data analytics and visualization.
+
+Currently open to new Front-End or Full-Stack opportunities.
   
 - 📫 Reach me at [shettyaditya19@gmail.com](mailto:shettyaditya19@gmail.com)
 - 📄 Know about my experiences [View Resume](https://docs.google.com/document/d/e/2PACX-1vRRjD-oI3xL2sOtieNMq46CyPkAwUPx6zgpE8OZ1RIWboBbuehYIkVVC6VlvFeLUA/pub)
