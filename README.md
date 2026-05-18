@@ -6,7 +6,7 @@ I also have experience in automation and scripting, and a growing interest in da
 Currently open to new Front-End or Full-Stack opportunities.
   
 - 📫 Reach me at [shettyaditya19@gmail.com](mailto:shettyaditya19@gmail.com)
-- 📄 Know about my experiences [View Resume](https://docs.google.com/document/d/e/2PACX-1vRRjD-oI3xL2sOtieNMq46CyPkAwUPx6zgpE8OZ1RIWboBbuehYIkVVC6VlvFeLUA/pub)
+- 📄 Know about my experiences [View Resume](https://docs.google.com/document/d/1hhvo9ALnpOUeLZeK1lU8HaE1x9WpHFQFn85-Dd3dNmM/edit?usp=sharing)
 - 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-shetty-b7503a205/)
 
